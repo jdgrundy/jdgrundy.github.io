@@ -1,0 +1,36 @@
+html, body {
+	font-family: font-family: 'Volkhov', serif;
+	width: 100%;
+	height: 100%;
+	background: url(crop-soccernet.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+.btn {
+	font-weight: 800;
+	border-radius: 10px;
+	text-transform: uppercase;*/
+}
+
+.btn-primary {
+	background-color: #faf4e5;
+	color: black;
+	border: solid 2px #faf4e5;
+}
+
+.btn-primary:hover {
+	background-color: #CDBA8D;
+	border: solid 2px #CDBA8D;
+}
+
+.btn-main {
+	padding: 10px 20px;
+}
+
